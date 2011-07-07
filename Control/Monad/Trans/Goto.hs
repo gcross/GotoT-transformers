@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------
 -- |
 -- Module      :  Control.Monad.Trans.Goto
--- Copyright   :  (c) Gregory Crosswhite 2001
+-- Copyright   :  (c) Gregory Crosswhite 2010
 -- License     :  BSD3
 -- Maintainer  :  gcross@phys.washington.edu
 -- Stability   :  provisional
