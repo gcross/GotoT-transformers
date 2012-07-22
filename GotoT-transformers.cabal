@@ -1,5 +1,5 @@
 Name:                GotoT-transformers
-Version:             1.0
+Version:             1.0.0.1
 License:             BSD3
 License-file:        LICENSE
 Author:              Gregory Crosswhite
@@ -14,5 +14,5 @@ Category:	     Control
 
 Library
     Build-depends:   base >= 3 && < 5,
-                     transformers >= 0.2 && <0.3
+                     transformers >= 0.2 && < 0.4
     Exposed-modules: Control.Monad.Trans.Goto
